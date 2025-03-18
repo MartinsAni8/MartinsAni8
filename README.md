@@ -7,7 +7,7 @@
 
 -🚀 I'm currently studying English language and programming languages
 
--🌱 I’m learning programming logic in JavaScript and personal development, HTML, and CSS on Alura"
+-🌱 I’m learning programming logic in JavaScript and personal development, HTML, and CSS.
 
 
 <div>
